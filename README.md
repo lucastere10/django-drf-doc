@@ -1,2 +1,2 @@
 # django-drf-documentacao
-Alura Django project for integration test and documentation
+Django project for integration test and documentation
